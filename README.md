@@ -16,6 +16,6 @@ We follow the next steps:
 
 ## Dataset
 
-1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3951655/h
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3951655/
 
 NCBI disease corpus, a collection of 793 PubMed abstracts fully annotated at the mention and concept level to serve as a research resource for the biomedical natural language processing community. 
