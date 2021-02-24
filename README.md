@@ -6,12 +6,12 @@
 [![Solvve](https://img.shields.io/badge/made%20in-solvve-blue)](https://solvve.com/)
 
 ## Description
-Named entity recognition using Bi_LSTM, Spacy
+Named entity recognition using Bi_LSTM, BERT
 
 We follow the next steps:
 1. EDA
 2. Data preprocessing
-3. Spacy, Bi-LSTM Modeling
+3. Bi-LSTM, BERT Modeling
 
 
 ## Dataset
