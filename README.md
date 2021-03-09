@@ -7,11 +7,10 @@
 
 ## Description
 Named entity recognition using Bi_LSTM, BERT
-
 We follow the next steps:
 1. EDA
 2. Data preprocessing
-3. Bi-LSTM, BERT Modeling
+3. Bi-LSTM BERT_NER Modeling
 
 
 ## Dataset
