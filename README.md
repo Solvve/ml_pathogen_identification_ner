@@ -6,7 +6,7 @@
 [![Solvve](https://img.shields.io/badge/made%20in-solvve-blue)](https://solvve.com/)
 
 ## Description
-Named entity recognition using Spacy Ner, BERT
+Named entity recognition using Spacy Ner, BERT. 
 We follow the next steps:
 1. EDA
 2. Data preprocessing
